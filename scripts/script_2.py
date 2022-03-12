@@ -1,2 +1,4 @@
 #hello world
-print('hello world')
+
+def FUNCION1():
+    	print('hello world')
