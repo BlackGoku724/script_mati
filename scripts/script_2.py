@@ -1,6 +1,6 @@
 #hello world
 
-def hello_world(name):
+def hello_world(name:str) -> int:
     try:
         name= input('ingrese su nombre')
         print(f'hello world {name}')
